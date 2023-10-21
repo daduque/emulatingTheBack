@@ -4,8 +4,78 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
+    <link rel="stylesheet" href="./assets/css/styles.css">
+
 </head>
 <body>
-    <h2>Login</h2>
+
+    <header>
+        <div class="header-title">
+            <h1>Simple page application</h1>
+        </div>
+        <div class="background-header">
+
+        </div>
+
+    </header>
+    <main>
+        <aside style="width: 30%;">
+            <div class="aside-title">
+                <h2>Menu</h2>
+                <hr class="hr-aside">
+            </div>
+            <div class="aside-content">
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    
+                    <li><a href="#news">Noticias</a></li>
+                    
+                    <li><a href="./login.html">Login</a></li>
+                    
+                </ul>
+            </div>
+        </aside>
+
+        <section class="news-section">
+            <h2>
+                Login
+                <hr>
+            </h2>
+
+            <!-- form to login -->
+            <form action="" method="GET" >
+
+                    
+                <label for="email">Email</label>
+                <input 
+                    type="text" 
+                    name="email" 
+                    id="email" 
+                    placeholder="Ingrese su usuario"
+                    minlength="5"
+                    autocomplete="off"
+                    >
+
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" placeholder="Password">
+
+                <input type="submit" value="Login">
+            </form>
+    
+        </section>
+
+    </main>
+
+    <footer id="contact">
+        <div class="footer-title">
+            <h2>Footer</h2>
+        </div>
+        <div class="footer-content">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!</p>
+        </div>
+    </footer>
+
+    <script src="./assets/js/login.js"></script>
+
 </body>
 </html>
