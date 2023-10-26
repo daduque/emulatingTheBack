@@ -3,7 +3,7 @@
 
 const getNoticias = async() => {
 
-    const data = await fetch('../data/news.json');
+    const data = await fetch('./data/news.json');
     const noticias = await data.json();
     let news = document.querySelector('#news');
     
