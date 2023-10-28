@@ -5,7 +5,7 @@
 
 const rol = sessionStorage.getItem('rol');
 
-if(rol === 'admin'){
+if(rol !== 'admin'){
     console.log('Bienvenido admin');
 }else{
     window.location.href = "login.html";

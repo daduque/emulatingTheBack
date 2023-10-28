@@ -2,21 +2,25 @@
     {
     "title": "Nuevos edificios en la ciudad",
     "image" : "buildings",
-    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!"
+    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!",
+    "link" : "https://www.google.com"
 },
 {
     "title": "Llegó un nuevo servicio a la ciudad",
     "image" : "deliveries",
-    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!"
+    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!",
+    "link" : "https://www.google.com"
 },
 {
     "title": "El lago solitario",
     "image" : "lonely",
-    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!"
+    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!",
+    "link" : "https://www.google.com"
 },
 {
     "title": "Escaleras de evacuación",
     "image" : "stairs",
-    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!"
+    "description" : "JSON Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, vel rerum? Numquam labore nihil officia eligendi provident. Maiores dolores minus blanditiis quis repudiandae commodi modi, porro, tempore, asperiores ipsa reiciendis!",
+    "link" : "https://www.google.com"
 }
 ]
