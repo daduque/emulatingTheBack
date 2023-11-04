@@ -23,7 +23,7 @@ fetch(`./data/${tableShow}.json`)
 
     // console.log(Object.keys())
     tableSection.innerHTML = `
-    <table class="table table-striped">
+    <table class="table table-striped" id="myTable">
         <thead>
             <tr>
                 ${Object.keys(data[0]).map( key => `<th scope="col">${key.toUpperCase()}</th>`).join('')}
@@ -40,5 +40,10 @@ fetch(`./data/${tableShow}.json`)
         </tbody>
     </table>
     `
-    console.log(data);
+
+    let table = new DataTable('#myTable', {
+        // options
+    });
+
+    
 })
